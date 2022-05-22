@@ -25,6 +25,7 @@ Je suis Développeuse <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - 🔭 Je recherche actuellement un poste de Développeuse Web
 - ⚡ Fait amusant : Je suis écrivaine
 - :mailbox:Comment me joindre: [![Linkedin Badge](https://img.shields.io/badge/-contact-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-pagniez/)
+<a href="mailto:helenepagniez51@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ---
 ### :hammer_and_wrench: Languages et Outils :
