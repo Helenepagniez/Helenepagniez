@@ -22,7 +22,7 @@
 ### :woman_technologist: A propos :
 Je suis Développeuse <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> à Rennes.
 
-- 🔭 Je recherche actuellement un travail ou une alternance de Développeuse Web
+- 🔭 Je recherche actuellement un poste de Développeuse Web
 - ⚡ Fait amusant : Je suis écrivaine
 - :mailbox:Comment me joindre: [![Linkedin Badge](https://img.shields.io/badge/-contact-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-pagniez/)
 <a href="mailto:helenepagniez51@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -47,6 +47,4 @@ Je suis Développeuse <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :fire: Mes Statistiques :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Helenepagniez&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Helenepagniez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
