@@ -20,9 +20,9 @@
 
 ---
 ### :woman_technologist: A propos :
-Je suis une passionnée de développement web <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> et étudiante RH à Rennes.
+Je suis une passionnée de développement web <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> et étudiante UX Designer à Rennes.
 
-- 🔭 Je démarre actuellement ma licence Chargée de développement des Ressources Humaines en alternance à Rennes.
+- 🔭 Je recherche actuellement une entreprise pour démarrer ma licence Web Designer/ UX Designer en alternance à Rennes.
 - ⚡ Fait amusant : Je suis écrivaine
 - :mailbox:Comment me joindre: [![Linkedin Badge](https://img.shields.io/badge/-contact-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-pagniez/)
 <a href="mailto:helenepagniez51@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
