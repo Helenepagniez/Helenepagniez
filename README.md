@@ -20,7 +20,7 @@
 
 ---
 ### :woman_technologist: A propos :
-Je suis une passionnée du monde digitale <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Je suis une passionnée du monde digital <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - ⚡ Fait amusant : Je suis écrivaine
 - :mailbox:Comment me joindre: [![Linkedin Badge](https://img.shields.io/badge/-contact-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9l%C3%A8ne-pagniez/)
